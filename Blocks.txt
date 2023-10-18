@@ -51,7 +51,7 @@ E600..E68F; Pallava
 E690..E6FF; Cyrillic Extended-2
 E700..E77F; Latin Extended-4
 E780..E7BF; Greek Extended-1
-E7C0..E7FF; Alphavetic Presentation Forms-1
+E7C0..E7FF; Alphabetic Presentation Forms-1
 E800..E87F; Musical Symbols Extended-1
 E880..E8FF; Astronomical Symbols Extended-1
 E900..E97F; Arabic Extended-2
