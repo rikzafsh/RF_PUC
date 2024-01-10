@@ -74,7 +74,7 @@ EE40..EE7F; Arabic Mathematical Alphanumeric Extended-1
 EE80..EEFF; Enclosed Alphanumeric Extended-1
 EF00..EFFF; Enclosed Alphanumeric Extended-2
 F000..F0FF; Number Forms-2
-F200..F27F; Astronomical Symbols Extended-2
+F200..F2FF; Astronomical Symbols Extended-2
 
 
 
